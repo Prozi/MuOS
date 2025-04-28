@@ -10,8 +10,9 @@
 
 1. Download config files
 
-- [anbernic.keymap](./anbernic.keymap)
-- [gmu.conf](./gmu.conf)
+- [gmu.conf](./gmu.conf) (sets gmu main config to use the next two)
+- [rgcube_input.conf](./rgcube_input.conf) (fixed button names)
+- [rgcube.keymap](./rgcube.keymap) (intuitive key bindings)
 
 2. Edit default folder location (in `gmu.conf`)
 
@@ -19,23 +20,24 @@
 Gmu.DefaultFileBrowserPath=<YOUR_FOLDER>
 ```
 
-3. Overwrite files in `/mnt/mmc/MUOS/application/GMU Music Player`
+3. Copy the files to `/mnt/mmc/MUOS/application/GMU Music Player`
 
 ### Keys
 
 ```
 # Folder View
-A = Play File
-X = Add Folder
+B = Enter Dir/Add file
+A = Add Dir
 
 # Songs View
-A = Toggle Random/Repeat
+Start = Change View
 B = Play
-X = Remove Item
-Y = Pause
+A = Change Play Mode
+X = Clear List
 L1 = Prev Song
 R1 = Next Song
-Start = Change View
-L2/R2 + Down = Lock/Unlock
+
+# Global
 L2/R2 + Start = Save & Exit
+L2/R2 + B = Help
 ```
