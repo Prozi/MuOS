@@ -1,6 +1,23 @@
-## RG Cube XX - MuOS
+## Opinionated stuff for RG Cube XX + MuOS
 
-- [Minimal Round Grid Theme](https://community.muos.dev/t/pixie-minimal-round-grid/89)
+### What
+
+- This is an opinionated repository of a proud Anbernic RG Cube XX owner with MuOS.
+- MuOS because it boots fastest, runs games fastest, and drains battery slowest.
+
+### OS
+
+- [MuOS](https://muos.dev)
+
+### Must Have Apps
+
 - [Scrappy - Scrape Art](https://github.com/gabrielfvale/scrappy/releases)
 - [Bluetooth Application](https://github.com/nvcuong1312/bltMuos/releases)
-- [GMU Music Player Config](./GMU%20Music%20Player/README.md)
+
+### Top Themes
+
+- [Minimal Round Grid Theme](https://community.muos.dev/t/pixie-minimal-round-grid/89)
+
+### Configs
+
+- [GMU Music Player Config](./GMU%20Music%20Player)
