@@ -29,4 +29,7 @@ R1 = Next Song
 Start = Change View
 L2/R2 = Mod
 Mod+Start = Exit
+A = Change Play Mode
+B = Play/Pause
+Y = Remove Item
 ```
