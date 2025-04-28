@@ -9,6 +9,10 @@
 
 - [MuOS](https://muos.dev)
 
+### Discord
+
+- [MuOS Discord](https://discord.gg/muos)
+
 ### Must Have Apps
 
 - [Scrappy - Scrape Art](https://github.com/gabrielfvale/scrappy/releases)
