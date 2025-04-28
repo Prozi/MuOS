@@ -13,7 +13,7 @@ Down=Down
 #IncreaseVolume=
 #DecreaseVolume=
 #ToggleTime=
-Pause=X
+Pause=Y
 Stop=Mod+X
 ToggleView=Enter
 PreviousTrack=L
@@ -33,15 +33,15 @@ ProgramInfoOkay=A
 #FileBrowserDirUp=Left
 #FileBrowserChDir=Right
 
-FileBrowserPlayFile=B
+FileBrowserPlayFile=A
 FileBrowserAddFileToPlaylistOrChDir=A
 FileBrowserAddDirToPlaylist=Y
 FileBrowserInsertFileIntoPlaylist=Mod+A
 FileBrowserNewPlFromDir=Mod+Y
 #FileBrowserDeleteFile=Mod+X
 # Playlist mappings:
-PlaylistPlayItem=A
-PlaylistToggleRandomMode=B
+PlaylistPlayItem=B
+#PlaylistToggleRandomMode=B
 PlaylistRemoveItem=Y
 PlaylistClear=Mod+Y
 PlaylistSave=Mod+B

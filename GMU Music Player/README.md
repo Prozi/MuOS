@@ -24,12 +24,18 @@ Gmu.DefaultFileBrowserPath=<YOUR_FOLDER>
 ### Keys
 
 ```
+# Folder View
+A = Play File
+X = Add Folder
+
+# Songs View
+A = Toggle Random/Repeat
+B = Play
+X = Remove Item
+Y = Pause
 L1 = Prev Song
 R1 = Next Song
 Start = Change View
-L2/R2 = Mod
-Mod+Start = Exit
-A = Change Play Mode
-B = Play/Pause
-Y = Remove Item
+L2/R2 + Down = Lock/Unlock
+L2/R2 + Start = Save & Exit
 ```
