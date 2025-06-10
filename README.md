@@ -11,7 +11,7 @@
 
 ## Forum
 
-- [MuOS Forum]https://community.muos.dev/latest
+- [MuOS Forum](https://community.muos.dev/latest)
 
 ## Discord
 
