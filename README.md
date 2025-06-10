@@ -9,18 +9,25 @@
 
 - [MuOS](https://muos.dev)
 
-### Discord
+## Forum
+
+- [MuOS Forum]https://community.muos.dev/latest
+
+## Discord
 
 - [MuOS Discord](https://discord.gg/muos)
 
-### Get Art For Games
+### After Installing
+
+## Art For Games
 
 - [Scrappy - Scrape Art](https://github.com/gabrielfvale/scrappy/releases)
 
-### Top Themes
+## Top Themes
 
 - [Minimal Round Grid Theme](https://community.muos.dev/t/pixie-minimal-round-grid/89)
 
-### Configs
+## Configs
 
 - [GMU Music Player Config](./GMU%20Music%20Player)
+- 
