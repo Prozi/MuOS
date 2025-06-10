@@ -11,12 +11,12 @@
 - [MuOS Forum](https://community.muos.dev/latest)
 - [MuOS Discord](https://discord.gg/muos)
 
-### After Installing
+### After installing
 
 - [Scrappy - Scrape Art](https://github.com/gabrielfvale/scrappy/releases)
 - [Minimal Round Grid Theme](https://community.muos.dev/t/pixie-minimal-round-grid/89)
 - [GMU Music Player Config](./GMU%20Music%20Player)
 
-### ROMS?
+### ROMs
 
 - [RomsFun](https://romsfun.com/)
