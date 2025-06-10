@@ -13,10 +13,9 @@
 
 - [MuOS Discord](https://discord.gg/muos)
 
-### Must Have Apps
+### Get Art For Games
 
 - [Scrappy - Scrape Art](https://github.com/gabrielfvale/scrappy/releases)
-- [Bluetooth Application](https://github.com/nvcuong1312/bltMuos/releases)
 
 ### Top Themes
 
